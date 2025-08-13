@@ -1,0 +1,7 @@
+title: My Jekyll Site
+description: A clean Jekyll starter deployed with GitHub Actions
+theme: jekyll-theme-cayman
+
+# Optional:
+# url: "https://your-username.github.io"
+# baseurl: "/your-repo-name" # only needed for project pages
